@@ -63,6 +63,7 @@ Xu, Xingqian, et al. "Versatile Diffusion: Text, Images and Variations All in On
 
 # Comment run notre projet ?
 
+## Construction du projet
 <p align="justify">
 Nous avons construit notre analyse autour du code déjà existant. Le dossier lib contenant toutes les fonctions nécessaires pour faire tourner le projet est resté intacte. Néanmoins, nous avons ajouté dans le dossier Analyse toutes les fonctions à expliquer tout particulièrement pour comprendre le fonctionnement d'un modèle de Diffusion Versatile. Il est donc possible de lancer les testes d'inférence depuis le notebook "run_inference_analyse.ipynb". Les résultats seront stockés dans output en fonction du type d'inférence. Nous avons décidé de ne pas garder l'interface graphique web comme à l'origine. En effet, nous avons préféré rester dans le code afin de bien appréhender le fonctionnement du modèle.
 </p>
@@ -76,6 +77,7 @@ Nous avons construit notre analyse autour du code déjà existant. Le dossier li
 </p>
 <br>
 
+## Setup
 <p align="justify">
 Afin de lancer notre projet vous devez vous munir de conda afin de créer un environement virtuel python. Il est également possible via python si il est à la bonne version (3.8). Ensuite il faut télécharger le requirements_analyse.txt afin d'aavoir les librairies du projet initiale et de notre analyse. 
 </p>
@@ -103,4 +105,9 @@ Enfin il faut télécharger les modèles sur le site Huggingface au lien suivant
   Figure 5 Modèles à installer dans le dossier "pretrained"
 </p>
 <br>
-
+<p align="justify">
+Vous etes enfin pret à lancer le projet ! Il vous suffi d'ouvrir le notebook "run_inference_analyse.ipynb" afin d'utiliser le model de Diffusion Versatile et d'ouvrir le dossier Analysis afin de voir les commentaires fait sur le code !
+</p>
+<p align="justify">
+Bonne analyse !
+</p>
