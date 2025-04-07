@@ -77,14 +77,30 @@ Nous avons construit notre analyse autour du code déjà existant. Le dossier li
 <br>
 
 <p align="justify">
-Afin de lancer notre projet vous devez vous munir de conda afin de créer un environement virtuel python. Il est également possible via python si il est à la bonne version (3.8). Ensuite il faut télécharger le requirements 
+Afin de lancer notre projet vous devez vous munir de conda afin de créer un environement virtuel python. Il est également possible via python si il est à la bonne version (3.8). Ensuite il faut télécharger le requirements_analyse.txt afin d'aavoir les librairies du projet initiale et de notre analyse. 
 </p>
 <br>
 
+<p align="center">
+  <img src="./assets/setup.png" />
+</p>
 
+<p align="center">
+  Figure 4 Lignes de commande pour lancer le projet
+</p>
+<br>
 
+<p align="justify">
+Enfin il faut télécharger les modèles sur le site Huggingface au lien suivant : 
+<a href="[https://huggingface.co/](https://huggingface.co/shi-labs/versatile-diffusion/tree/main/pretrained_pth)" target="_blank">Link</a>
+</p>
+<br>
+<p align="center">
+  <img src="./assets/models.png" />
+</p>
 
+<p align="center">
+  Figure 5 Modèles à installer dans le dossier "pretrained"
+</p>
+<br>
 
-
-
-il faut télécharger les models => https://huggingface.co/shi-labs/versatile-diffusion/tree/main/pretrained_pth
