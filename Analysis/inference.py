@@ -19,9 +19,9 @@ import torchvision.transforms as tvtrans
 from PIL import Image
 from IPython.display import display
 from lib.model_zoo import get_model
-from ddim import DDIMSampler
+from Analysis.ddim import DDIMSampler
 #from lib.model_zoo.ddim import DDIMSampler
-from function import *
+from Analysis.function import *
 from PIL import Image
 import torch
 
