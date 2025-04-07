@@ -79,7 +79,7 @@ Nous avons construit notre analyse autour du code déjà existant. Le dossier li
 
 ## Setup
 <p align="justify">
-Afin de lancer notre projet vous devez vous munir de conda afin de créer un environement virtuel python. Il est également possible via python si il est à la bonne version (3.8). Ensuite il faut télécharger le requirements_analyse.txt afin d'aavoir les librairies du projet initiale et de notre analyse. 
+Afin de lancer notre projet vous devez vous munir de conda afin de créer un environement virtuel python. Il est également possible via python si il est à la bonne version (3.8). Ensuite il faut télécharger le "requirements_analyse.txt" afin d'aavoir les librairies du projet initiale et de notre analyse. 
 </p>
 <br>
 
