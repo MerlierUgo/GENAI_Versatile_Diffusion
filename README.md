@@ -61,20 +61,12 @@ Xu, Xingqian, et al. "Versatile Diffusion: Text, Images and Variations All in On
 
 
 
+# Comment run notre projet ?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="justify">
+Nous avons construit notre 
+</p>
+<br>
 
 
 
