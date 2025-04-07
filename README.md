@@ -94,7 +94,7 @@ Afin de lancer notre projet vous devez vous munir de conda afin de créer un env
 
 <p align="justify">
 Enfin il faut télécharger les modèles sur le site Huggingface au lien suivant : 
-<a href="[https://huggingface.co/](https://huggingface.co/shi-labs/versatile-diffusion/tree/main/pretrained_pth)" target="_blank">Link</a>
+<a href="https://huggingface.co/shi-labs/versatile-diffusion/tree/main/pretrained_pth" target="_blank">Link</a>
 </p>
 <br>
 <p align="center">
