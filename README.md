@@ -64,7 +64,7 @@ Xu, Xingqian, et al. "Versatile Diffusion: Text, Images and Variations All in On
 # Comment run notre projet ?
 
 <p align="justify">
-Nous avons construit notre 
+Nous avons construit notre analyse autour du code déjà existant. Le dossier lib contenant toutes les fonctions nécessaires pour faire tourner le projet est resté intacte. Néanmoins, nous avons ajouté dans le dossier Analyse toutes les fonctions à expliquer tout particulièrement pour comprendre le fonctionnement d'un modèle de Diffusion Versatile. Il est donc possible de lancer les testes d'inférence depuis le notebook "run_inference_analyse.ipynb". Les résultats seront stockés dans output en fonction du type d'inférence. Nous avons décidé de ne pas garder l'interface graphique web comme à l'origine. En effet, nous avons préféré rester dans le code afin de bien appréhender le fonctionnement du modèle.
 </p>
 <br>
 <p align="center">
@@ -76,8 +76,10 @@ Nous avons construit notre
 </p>
 <br>
 
-
-
+<p align="justify">
+Afin de lancer notre projet vous devez vous munir 
+</p>
+<br>
 
 
 
