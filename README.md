@@ -67,7 +67,14 @@ Xu, Xingqian, et al. "Versatile Diffusion: Text, Images and Variations All in On
 Nous avons construit notre 
 </p>
 <br>
+<p align="center">
+  <img src="./assets/path.png" />
+</p>
 
+<p align="center">
+  Figure 3 Chemins de notre projet
+</p>
+<br>
 
 
 
