@@ -29,7 +29,7 @@ Les modèles de diffusion classiques, tels que Stable Diffusion ou DALL-E, sont 
 ## Une approche unifiée pour le texte et l'image
 
 
-<p align="justify">
+<p align="justify" >
 Le modèle Versatile Diffusion représente une avancée significative par rapport aux modèles de diffusion traditionnels en ce qu'il est capable de gérer des tâches multimodales de manière fluide. Contrairement aux modèles de diffusion classiques, qui se concentrent généralement sur une seule modalité, VD permet de traiter à la fois des images et des descriptions textuelles au sein d'un même modèle. Cela signifie qu'il est capable de générer des images à partir de descriptions textuelles, mais aussi de générer des légendes ou des descriptions à partir d'images. De plus, il permet des modifications d'images basées sur des instructions textuelles, offrant ainsi une grande flexibilité et de nouvelles possibilités pour l'interaction avec des contenus multimodaux.
 Une caractéristique clé de Versatile Diffusion est sa capacité à effectuer une diffusion flexible dans plusieurs directions, que ce soit pour générer du texte à partir d'images, des images à partir de texte ou encore des variations d'images selon des spécifications textuelles. Cela permet d'exploiter les relations entre le texte et l'image d'une manière plus fluide et plus cohérente que les modèles traditionnels, qui traitent souvent ces deux types de données de manière séparée.
 
