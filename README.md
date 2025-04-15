@@ -69,7 +69,7 @@ Nous avons construit notre analyse autour du code déjà existant. Le dossier li
 </p>
 <br>
 <p align="center">
-  <img src="./assets/path.png" />
+  <img src="./assets/path.png"  />
 </p>
 
 <p align="center">
